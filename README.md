@@ -1,0 +1,2 @@
+# Mice Trap-Ultrasonic Distance Sensor and Servo Control
+ This project is an automated Mice Trap that uses an ultrasonic distance sensor to detect the presence of an object (such as a mouse) within a certain range. When an object is detected within a specified distance, a servo motor is activated to simulate the trapping mechanism, an LED is lit up, and a piezo buzzer emits a sound. The system continuously monitors the distance and updates the status accordingly.
